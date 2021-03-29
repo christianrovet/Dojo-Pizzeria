@@ -15,7 +15,7 @@ var pizza3 = {
     crustType: "Burnt",
     sauceType: "Sweet Sauce",
     cheeses: "no Cheese",
-    toppings: "meatballs",
+    toppings: ["meatballs"]
 }
 var pizza4 = {
     crustType: "Stuffed",
